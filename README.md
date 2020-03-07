@@ -4,7 +4,7 @@ By Shankhadeep Bhadra (https://github.com/Shankhadeep1234)
 
 ## Project demo
 
-![image](https://i.imgur.com/WQHs0y2.png)
+![image](image/Screenshot.png)
 
 ## Installation and usage
 
